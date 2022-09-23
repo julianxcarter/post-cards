@@ -1,24 +1,17 @@
 import logo from './logo.svg';
-import './App.css';
+
+const JSON_PLACEHOLDER_URL = 'https://jsonplaceholder.typicode.com';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <>
+      <header style={{backgroundColor: '#282c34', height:'7vh'}} className='text-2xl xl:text-4xl py-3 text-gray-100 text-base text-center italic py-auto'>
+        Julian's Social Media Site?
       </header>
-    </div>
+      <div style={{height:'93vh'}} className='bg-gray-300 bg-opacity-100'>
+
+      </div>
+    </>
   );
 }
 

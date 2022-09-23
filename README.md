@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Post Card Demo App
+Just a project to test out some visualizations using [React](https://reactjs.org) and [TailwindCSS](https://tailwindcss.com). Dummy data has been pulled from [JSONPlaceholder](https://jsonplaceholder.typicode.com). THis site doesn't have much of a purpose, just testing out styling and API calls.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
